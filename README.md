@@ -6,7 +6,7 @@ While no new features are currently being added to the app, at the request of se
 
 Note that the Play Store version of the app had a "Lite" version (with limited features), and a "Pro" version that was free, but contained ads. There was also an "unlocker" app for purchase that would remove ads from the Pro version, and unlock all features. With version 2.0, the Lite version and unlocker app have been discontinued. The Pro version is now ad free, and available for download free of charge.
 
-The latest release is version 2.0, Build 3912. You will find it in the "Releases" sub-folder. See below for a list of features. A (somewhat outdated) user's manual can also be found in the "Docs" sub-folder.
+The latest release is version 2.0, Build 3912. You will find it in the "Releases" sub-folder. To install on your phone, download the apk and side-load it onto your device. See below for a list of features. A (somewhat outdated) user's manual can also be found in the "Docs" sub-folder.
 
 What's new in this release:
 

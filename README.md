@@ -8,7 +8,7 @@ Note that the Play Store version of the app had a "Lite" version (with limited f
 
 The latest release is version 2.0, Build 3912. You will find it in the "Releases" sub-folder. To install on your phone, download the apk and side-load it onto your device. See below for a list of features. A (somewhat outdated) user's manual can also be found in the "Docs" sub-folder.
 
-What's new in this release:
+What's new in release 2.0:
 
 * Improved user interface.
 * Added new "Favorites" menu. Select by tapping the star in the bottom left area of the screen.

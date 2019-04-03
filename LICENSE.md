@@ -1,4 +1,4 @@
-#IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE BEFORE USING THIS PROGRAM.
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE BEFORE USING THIS PROGRAM.
 
 WhitestarLogic's End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and WhitestarLogic, for the software product(s) identified above which may include associated software components, media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA.
 

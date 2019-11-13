@@ -1,5 +1,7 @@
 # MyTunes Music Player
 
+### Note: This project has been superseded by [AirTunes Music Player Pro](https://github.com/mfrichards/AirTunesPro). Modern Android devices (Android 5.0+) should use that app instead.
+
 MyTunes Music Player is an Android app, originally available in Google Play Store from 2012 – 2016. At the peak of its popularity in Nov 2014, it had over 20,000 active device installs, with an average Play Store rating of 4.07 (Lite version) and 4.20 (Pro version). For various reasons, I could no longer spend the time required to continually keep the app up-to-date, so it became necessary to retire it from the Google Play store.
 
 While no new features are currently being added to the app, at the request of several users, I have maintained an updated release of the apk file, rebuilt from time to time to work with modern versions of Android.
